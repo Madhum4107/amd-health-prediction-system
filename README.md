@@ -52,12 +52,12 @@ Install and execute:
 
 ```bash
 python -m pip install pandas numpy scikit-learn
-python "project code.py"
+python project_code.py
 ```
 
 ## Repository contents
 
-- `project code.py` — synthetic data generation and ML demonstration
+- `project_code.py` — synthetic data generation, model evaluation, validation and CLI
 - `ai_health_prediction_output.png` — example output
 - `AI-Powered-Smart-Health-Prediction-System.pdf` — project document
 - `AI_Health_Prediction_White_Paper.pdf` — accompanying write-up
